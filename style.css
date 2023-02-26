@@ -28,10 +28,7 @@ h1 {
     font-weight:700;
     font-size:22px;
     line-height:28px;
-    margin-top:24px;
-    margin-right:16px;
-    margin-bottom:16px;
-    margin-left:16px;
+    margin:24px 16px 16px 16px;
 
 
 }
@@ -42,7 +39,5 @@ p {
     line-height:19px;
     letter-spacing: 0.1875px;
     color:#7D889E;
-    margin-right:32px;
-    margin-bottom:40px;
-    margin-left:32px;
+    margin:16px 32px 40px 32px;
 }
