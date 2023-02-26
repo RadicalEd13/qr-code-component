@@ -22,3 +22,19 @@ img {
     max-width:100%;
     border-radius:10px;
 }
+
+h1 {
+    color:#1F314F;
+    font-weight:700;
+    font-size:22px;
+    line-heigjt:28px;
+
+}
+
+p {
+    font-weight: 400;
+    font-size:15px;
+    line-height:19px;
+    letter-spacing: 0.1875px;
+    color:#7D889E;
+}
