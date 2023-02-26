@@ -1,0 +1,21 @@
+body {
+   text-align: center;
+   height:100vh;
+   font-family: Outfit, sans-serif;
+   background-color: #F2F2F2;
+   margin:0;
+
+}
+
+div {
+    background-color: white;
+    width:320px;
+    margin:auto;
+    padding:16px;
+    margin-top:152px;
+    margin-bottom:151px;
+}
+
+img {
+    max-width:100%;
+}
