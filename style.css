@@ -27,7 +27,12 @@ h1 {
     color:#1F314F;
     font-weight:700;
     font-size:22px;
-    line-heigjt:28px;
+    line-height:28px;
+    margin-top:24px;
+    margin-right:16px;
+    margin-bottom:16px;
+    margin-left:16px;
+
 
 }
 
@@ -37,4 +42,7 @@ p {
     line-height:19px;
     letter-spacing: 0.1875px;
     color:#7D889E;
+    margin-right:32px;
+    margin-bottom:40px;
+    margin-left:32px;
 }
