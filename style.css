@@ -1,11 +1,10 @@
 body {
+   display: flex;
    text-align: center;
    height:100vh;
    font-family: Outfit, sans-serif;
    background-color: #d5e1ef;
    margin:0;
-   
-
 }
 
 div {
@@ -13,8 +12,7 @@ div {
     width:320px;
     margin:auto;
     padding:16px;
-    margin-top:152px;
-    margin-bottom:151px;
+    
     border-radius:20px; 
 }
 
